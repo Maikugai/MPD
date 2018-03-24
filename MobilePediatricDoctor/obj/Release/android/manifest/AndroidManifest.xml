@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="MobilePediatricDoctor.MobilePediatricDoctor" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="21" />
+  <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+  <application android:allowBackup="true" android:label="@string/app_name" android:icon="@drawable/logo1" android:name="android.app.Application">
+    <activity android:label="Doctor's Description" android:screenOrientation="portrait" android:theme="@style/MyTheme" android:name="md51021d5c6e3bec1f05093c7e29e005612.DoctorsDesc" />
+    <activity android:label="Medicine" android:screenOrientation="portrait" android:theme="@style/MyTheme" android:name="md51021d5c6e3bec1f05093c7e29e005612.Medicine" />
+    <activity android:label="MedicineDesc" android:screenOrientation="portrait" android:theme="@style/MyTheme" android:name="md51021d5c6e3bec1f05093c7e29e005612.MedicineDesc" />
+    <activity android:label="Mobile Pediatric Doctor" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="md5bff1365c2b7167acb91e9190a362ab76.MainActivity" />
+    <activity android:label="Child Info" android:noHistory="true" android:parentActivityName="md5bff1365c2b7167acb91e9190a362ab76.MainActivity" android:screenOrientation="portrait" android:theme="@style/MyTheme" android:name="md598efccbbcf929e4e8d7f62121a5a8f92.ChildInfo" />
+    <activity android:label="Diagnose" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/MyTheme" android:name="md598efccbbcf929e4e8d7f62121a5a8f92.Diagnose" />
+    <activity android:label="Doctors" android:screenOrientation="portrait" android:theme="@style/MyTheme" android:name="md598efccbbcf929e4e8d7f62121a5a8f92.Doctors" />
+    <activity android:label="Hospital" android:screenOrientation="portrait" android:theme="@style/MyTheme" android:name="md598efccbbcf929e4e8d7f62121a5a8f92.Hospital" />
+    <activity android:label="Hospital Description" android:screenOrientation="portrait" android:theme="@style/MyTheme" android:name="md598efccbbcf929e4e8d7f62121a5a8f92.HospitalDesc" />
+    <activity android:label="Illness Description" android:screenOrientation="portrait" android:theme="@style/MyTheme" android:name="md598efccbbcf929e4e8d7f62121a5a8f92.IllDesc" />
+    <activity android:label="Illness Menu" android:screenOrientation="portrait" android:theme="@style/MyTheme" android:name="md598efccbbcf929e4e8d7f62121a5a8f92.IllMenu" />
+    <activity android:label="Influenzza" android:screenOrientation="portrait" android:name="md598efccbbcf929e4e8d7f62121a5a8f92.Influenzza" />
+    <activity android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/MyTheme.Splash" android:name="md598efccbbcf929e4e8d7f62121a5a8f92.Splash">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Symptoms" android:name="md598efccbbcf929e4e8d7f62121a5a8f92.Symptoms" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="MobilePediatricDoctor.MobilePediatricDoctor.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

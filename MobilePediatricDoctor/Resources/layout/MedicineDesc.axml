@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:src="@drawable/medicine"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView1"
+                android:layout_marginTop="21.0dp"
+                android:scaleType="fitCenter" />
+            <TextView
+                android:text="Name"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/mName"
+                android:gravity="center"
+                android:layout_marginTop="12.0dp" />
+            <TextView
+                android:text="Indication"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView2"
+                android:layout_marginLeft="20.0dp"
+                android:layout_marginTop="12.0dp"
+                android:layout_marginRight="20.0dp"
+                android:drawableLeft="@drawable/indication" />
+            <TextView
+                android:text="Medium Text"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/mIndication"
+                android:layout_marginLeft="20.0dp"
+                android:layout_marginTop="12.0dp"
+                android:layout_marginRight="20.0dp" />
+            <TextView
+                android:text="Warning"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView8"
+                android:layout_marginLeft="20.0dp"
+                android:layout_marginTop="12.0dp"
+                android:layout_marginRight="20.0dp"
+                android:drawableLeft="@drawable/warning" />
+            <TextView
+                android:text="Medium Text"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/mWarning"
+                android:layout_marginLeft="20.0dp"
+                android:layout_marginTop="12.0dp"
+                android:layout_marginRight="20.0dp"
+                android:layout_marginBottom="21.0dp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

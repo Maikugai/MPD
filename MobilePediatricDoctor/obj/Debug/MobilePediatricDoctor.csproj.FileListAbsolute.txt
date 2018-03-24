@@ -1,0 +1,274 @@
+D:\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.pdb
+D:\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.MobilePediatricDoctor.apk
+D:\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.MobilePediatricDoctor-Signed.apk
+D:\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\MobilePediatricDoctor.csproj.CoreCompileInputs.cache
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\MobilePediatricDoctor.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\MobilePediatricDoctor.pdb
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\android\bin\MobilePediatricDoctor.MobilePediatricDoctor.apk
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\childinfo.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\diagnose.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\doctors.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\hospital.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\hospitaldesc.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\illdesc.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\illmenu.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\illrow.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\influenzza.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\mmenu.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\symptoms.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\doctorsdesc.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\medicine.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\medicinedesc.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\main.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\values\strings.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\values\colors.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\values\mytheme.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\values\styles.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\bg.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\doctor.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\logo1.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\logo2.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\logo3.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\logo4.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\splash_screen.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\painful.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\ring.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\rosy.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\dusky.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\blister.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\cluster.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\grayish.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\pimple.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\pinpoint.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\redbase.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\diagnose.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\hospital.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\illness.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\medicine.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\idesc.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\idoc.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\iprev.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\isymp.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\itreat.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\city.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\schedule.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\field.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\clinic.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\contact.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\address.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\dose.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\indication.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\warning.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\R.cs.flag
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\uploadflags.txt
+D:\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.dll.mdb
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\android\assets\MobilePediatricDoctor.dll.mdb
+D:\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\MobilePediatricDoctor.csprojResolveAssemblyReference.cache
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.pdb
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.MobilePediatricDoctor.apk
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.MobilePediatricDoctor-Signed.apk
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Compat.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Fragment.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\MobilePediatricDoctor.csprojResolveAssemblyReference.cache
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\MobilePediatricDoctor.csproj.CoreCompileInputs.cache
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\MobilePediatricDoctor.dll
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\MobilePediatricDoctor.pdb
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\android\bin\MobilePediatricDoctor.MobilePediatricDoctor.apk
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\childinfo.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\diagnose.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\doctors.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\hospital.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\hospitaldesc.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\illdesc.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\illmenu.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\illrow.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\influenzza.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\mmenu.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\symptoms.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\doctorsdesc.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\medicine.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\medicinedesc.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\main.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\values\strings.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\values\colors.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\values\mytheme.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\values\styles.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\bg.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\doctor.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\logo1.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\logo2.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\logo3.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\logo4.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\splash_screen.xml
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\painful.jpg
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\ring.jpg
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\rosy.jpg
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\dusky.jpg
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\blister.jpg
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\cluster.jpg
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\grayish.jpg
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\pimple.jpg
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\pinpoint.jpg
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\redbase.jpg
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\diagnose.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\hospital.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\illness.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\medicine.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\idesc.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\idoc.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\iprev.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\isymp.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\itreat.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\city.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\schedule.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\field.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\clinic.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\contact.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\address.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\dose.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\indication.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\warning.png
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\R.cs.flag
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\uploadflags.txt
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.dll.mdb
+E:\New folder\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\android\assets\MobilePediatricDoctor.dll.mdb
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.pdb
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.MobilePediatricDoctor.apk
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.MobilePediatricDoctor-Signed.apk
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\MobilePediatricDoctor.csproj.CoreCompileInputs.cache
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\MobilePediatricDoctor.dll
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\MobilePediatricDoctor.pdb
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\android\bin\MobilePediatricDoctor.MobilePediatricDoctor.apk
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\childinfo.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\diagnose.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\doctors.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\hospital.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\hospitaldesc.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\illdesc.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\illmenu.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\illrow.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\influenzza.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\mmenu.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\symptoms.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\doctorsdesc.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\medicine.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\medicinedesc.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\layout\main.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\values\strings.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\values\colors.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\values\mytheme.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\values\styles.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\bg.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\doctor.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\logo1.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\logo2.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\logo3.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\logo4.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\splash_screen.xml
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\painful.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\ring.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\rosy.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\dusky.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\blister.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\cluster.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\grayish.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\pimple.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\pinpoint.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\redbase.jpg
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\diagnose.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\hospital.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\illness.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\medicine.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\idesc.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\idoc.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\iprev.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\isymp.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\itreat.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\city.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\schedule.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\field.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\clinic.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\contact.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\address.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\dose.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\indication.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\res\drawable\warning.png
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\R.cs.flag
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\obj\Debug\uploadflags.txt
+D:\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\MobilePediatricDoctor\bin\Debug\MobilePediatricDoctor.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\MobilePediatricDoctor.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
